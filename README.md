@@ -10,6 +10,7 @@ My work typically involves:
 - **Clean Architecture & Vertical Slice Architecture**
 - **Domain-Driven Design (DDD)**
 - **CQRS & Event-Driven patterns**
+- **Distributed Tracing with Opentelemetry**
 
 I enjoy solving complex technical problems and applying architectural best practices with confidence.
 
