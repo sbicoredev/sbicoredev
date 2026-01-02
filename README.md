@@ -22,9 +22,7 @@ I enjoy solving complex technical problems and applying architectural best pract
 - 🌱 Learning **Cloud-Native & Distributed Systems with .NET Core**
 - 👯 Open to collaborating on **.NET Core & Node.js projects**
 - 💬 Ask me about **.NET Core, NestJS and backend architecture**
-- 📫 Reach me via:
-  - [LinkedIn](https://linkedin.com/in/sbicoredev)
-  - <sbicoredev@gmail.com>
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/sbicoredev) or <sbicoredev@gmail.com>
 - 😄 Pronouns: **He / Him**
 
 ### 🌐 Connect With Me
