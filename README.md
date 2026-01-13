@@ -55,51 +55,58 @@ I enjoy solving complex technical problems and applying architectural best pract
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=sharp"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ### DevOps & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 </p>
 
-### Observability & Messaging
+### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry"/>
-  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana"/>
-  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim"/>
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
