@@ -2,7 +2,7 @@
 
 ### Software Developer | Backend & Distributed Systems Enthusiast
 
-I’m a backend-focused Software Developer specializing in ***.NET Core*** and ***Node.js***, with a strong passion for designing **observable**, **resilient**, **scalable** and **production-grade** systems.
+I’m a backend-focused Full Stack Software Developer specializing in ***.NET Core*** and ***Node.js***, with a strong passion for designing **observable**, **resilient**, **scalable** and **production-grade** systems.
 
 My work typically involves:
 
