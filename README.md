@@ -4,26 +4,19 @@
 
 I’m a backend-focused Full Stack Software Developer specializing in ***.NET Core*** and ***Node.js***, with a strong passion for designing **observable**, **resilient**, **scalable** and **production-grade** systems.
 
+<img src="/code.gif" width="350" align="right"/>
+
 My work typically involves:
 
-- **Modular Monoliths & Distributed Systems**
+- **Modular Monoliths & Cloud-Native Distributed Systems**
 - **Clean Architecture & Vertical Slice Architecture**
 - **Domain-Driven Design (DDD)**
 - **CQRS & Event-Driven patterns**
 - **Distributed Tracing with Opentelemetry**
+- 💬 Ask me anything about **.NET Core, NestJS and backend architecture**
+- 👯 Open to collaborating on **.NET Core & Node.js projects**
 
 I enjoy solving complex technical problems and applying architectural best practices with confidence.
-
-## 🧑‍💻 More About Me
-
-<img src="/code.gif" width="350" align="right"/>
-
-- 🔭 Currently focused on building Modular Monolith apps with **.NET Core & Nestjs**
-- 🌱 Learning **Cloud-Native & Distributed Systems with .NET Core**
-- 👯 Open to collaborating on **.NET Core & Node.js projects**
-- 💬 Ask me about **.NET Core, NestJS and backend architecture**
-- 📫 Reach me via [LinkedIn](https://linkedin.com/in/sbicoredev) or <sbicoredev@gmail.com>
-- 😄 Pronouns: **He / Him**
 
 ### 🌐 Connect With Me
 
@@ -73,8 +66,6 @@ I enjoy solving complex technical problems and applying architectural best pract
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
 ### Databases
@@ -96,18 +87,9 @@ I enjoy solving complex technical problems and applying architectural best pract
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>  
   <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
